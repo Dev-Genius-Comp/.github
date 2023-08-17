@@ -1,3 +1,3 @@
-# Alcazar Gaming
+# DevGenius
 
 [Discord](https://discord.io/AlcazarNetwork)
